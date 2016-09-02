@@ -4,6 +4,10 @@
   "description": "Levenshtein map for best match key value storage",
   "main": "levenshtein-map.js",
   "author": "David Gonzalez",
+  "repository" : {
+    "type" : "git",
+    "url" : "git@github.com:dgonzalez/levenshtein-map.git"
+  },
   "license": "MIT",
   "dependencies": {
     "fast-levenshtein": "2.0.3",
